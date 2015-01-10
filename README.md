@@ -1,7 +1,7 @@
 A nagios check for Flume
 =========================
 
-xxx
+We'll eventually add some useful info here.
 
 
 
